@@ -1,2 +1,2 @@
 #Dicty-Image-Processing
-#cc-by-sa-4.0
+#GPL-3.0-or-later
